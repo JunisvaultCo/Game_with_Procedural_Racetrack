@@ -1,4 +1,4 @@
-# Game_with_Procedural_Racetrack
+# OpenGL_Game_with_Procedural_Racetrack
 
 Written by Iulia-Silvia Plăiașu
 
