@@ -9,10 +9,15 @@ from the Elements of Computer Graphics class, but with a racketrack which was no
 Controls:
 
 A, D - rotate left and right
+
 W - move forwards
+
 S - move backwards
+
 Q, E - rotate camera around car
+
 O - generate a new track
+
 Z, X - zoom out minimap.
 
 
