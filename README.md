@@ -3,7 +3,7 @@
 Written by Iulia-Silvia Plăiașu
 
 Uses the https://github.com/UPB-Graphics/gfx-framework framework. It is an implementation for the second homework
-from the Elements of Computer Graphics class, but with a racetrack which was not in the assigment.
+from the Elements of Computer Graphics class, but with a racetrack which was not in the assignment.
 (Assignment: https://www.youtube.com/watch?v=eyZwa6lDm14 )
 
 Example run: 
